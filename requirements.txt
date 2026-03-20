@@ -1,0 +1,10 @@
+PyMuPDF==1.24.14
+google-generativeai==0.8.3
+moviepy==1.0.3
+openai-whisper==20240930
+streamlit==1.55.0
+python-dotenv==1.0.1
+pymongo==4.10.1
+plotly==6.6.0
+reportlab==4.4.10
+bcrypt==4.2.0
